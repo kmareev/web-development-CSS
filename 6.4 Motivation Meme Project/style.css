@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.Robert {
+    border: 5px solid white;
+    max-width: 100%;
+
+}
+
+.Meme-poster {
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    margin-left: 25%;
+    width: 50%;
+
+}
